@@ -6,36 +6,34 @@ Welcome to my GitHub! 🚀 Here, you'll find my projects, experiments, and contr
 ---
 
 ## 🔥 About Me  
-- 🎯 Passionate about **[Your Interests, e.g., Web Development, Game Development, AI]**  
-- 💡 Always learning **new technologies** and improving my skills  
-- 🎨 Love creating **[e.g., interactive web apps, games, open-source tools]**  
-
----
-
-## 📂 My Projects  
-🔹 **[Project Name](https://github.com/YourUsername/ProjectName)** – *[Short description]*  
-🔹 **[Another Project](https://github.com/YourUsername/AnotherProject)** – *[Short description]*  
-
-📌 Check out all my repos **[here](https://github.com/YourUsername?tab=repositories)**!  
+- 🎮 Game Developer using **Unity**  
+- 🌐 Web Developer using **Vue & Express.js**  
+- 💡 Always learning new technologies and improving my skills  
 
 ---
 
 ## 🛠 My Skills  
-### **💻 Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
-### **🛠 Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+### **💻 Programming Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+
+### **⚡ Frameworks & Tools**  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+
+### **🛠 DevOps & Other Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pesinus&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
