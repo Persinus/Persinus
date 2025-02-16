@@ -1,5 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
-![Welcome Banner](https://your-image-url.com/banner.png)  
+# 👋 Hi there! I'm Persinus
 
 Welcome to my GitHub! 🚀 Here, you'll find my projects, experiments, and contributions to the developer community.  
 
@@ -27,7 +26,7 @@ Welcome to my GitHub! 🚀 Here, you'll find my projects, experiments, and contr
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pesinus&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Persinus&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
