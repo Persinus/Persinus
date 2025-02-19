@@ -24,18 +24,10 @@ Welcome to my GitHub! 🚀 Here, you'll find my projects, experiments, and contr
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Persinus&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ---
 
 ## 📫 Connect with Me  
-[![Website](https://img.shields.io/badge/🌍-Website-0A66C2?style=for-the-badge)](https://yourwebsite.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)  
+[![Website](https://img.shields.io/badge/🌍-Website-0A66C2?style=for-the-badge)](https://yourwebsite.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)  
 
 ---
 
