@@ -23,7 +23,8 @@ Welcome to my GitHub! 🚀 Here, you'll find my projects, experiments, and contr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Persinus&theme=shadow_green&hide_border=false)<br/>
+
+![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Persinus)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Persinus&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
