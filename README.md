@@ -22,7 +22,7 @@ Welcome to my GitHub! 🚀 Here, you'll find my projects, experiments, and contr
 
 # 📊 GitHub Stats:
 
-![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Persinus) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Persinus&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Persinus) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Persinus&theme=radical&layout=compact)
 
 
 
