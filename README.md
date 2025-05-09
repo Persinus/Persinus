@@ -21,6 +21,7 @@ Welcome to my GitHub! 🚀 Here, you'll find my projects, experiments, and contr
 
 
 # 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=Persinus&theme=tokyonight&show_icons=true&count_private=true">
 
 ![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Persinus) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Persinus&theme=radical&layout=compact)
 
