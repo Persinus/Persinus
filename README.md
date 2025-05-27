@@ -6,7 +6,7 @@ Welcome to my GitHub! 🚀 Here, you'll find my projects, experiments, and contr
 
 ## 🔥 About Me  
 - 🎮 Game Developer using **Unity**  
-- 🌐 Web Developer using **Vue & Express.js**  
+- 🌐 Web Developer using **Vue & Asp.Net**  
 - 💡 Always learning new technologies and improving my skills  
 
 ---
