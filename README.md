@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">👋 Hi there! I'm Persinus</h1>
+<h1 align="leftleft">👋 Hi there! I'm Persinus</h1>
 
 ###
 
@@ -97,6 +97,13 @@
 </div>
 
 ###
+<h2 align="left">🌱 I’m currently learning</h2>
+<p align="left">Game Development with Unity<br>Web Development with Vue.js and ASP.NET</p>
+###
+
+
+
+###
 
 <h2 align="left">🔥   My Stats :</h2>
 
@@ -143,6 +150,12 @@
 
 <p align="left">🚀 Thanks for visiting my profile! Feel free to explore and contribute!</p>
 
+###
+<h2 align="left">💖 Support My Work</h2>
+<p align="left">If you find my work helpful, consider supporting me:</p>
+<p align="left">⭐ Star my repositories to show your appreciation!</p>
+
+
 ### Contributions
 
 <p align="left">If you like my work, consider supporting me by starring my repositories or following me on GitHub!</p>
@@ -152,5 +165,3 @@
 <p align="left">Let's connect and collaborate on exciting projects!</p>
 
 <p align="left">Happy coding! 😊</p>
-
-<p align="left">This README was generated with the <a href="https://github.com/maurodesouza/profile-readme-generator">Profile README Generator</a>.</p>
