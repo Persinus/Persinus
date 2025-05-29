@@ -106,7 +106,6 @@
 
 
 
-
 ###
 
 <h2 align="left">🔥   My Stats :</h2>
@@ -128,10 +127,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Persinus/Persinus/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Persinus/Persinus/output/pacman-contribution-graph.svg">
 </picture>
-
+[![Generate pacman animation](https://github.com/Persinus/Persinus/actions/workflows/pacman.yml/badge.svg)](https://github.com/Persinus/Persinus/actions/workflows/pacman.yml)
 ###
 
 <img src="https://raw.githubusercontent.com/Persinus/Persinus/output/snake.svg" alt="Snake animation" />
+[![Generate snake animation](https://github.com/Persinus/Persinus/actions/workflows/snake.yml/badge.svg)](https://github.com/Persinus/Persinus/actions/workflows/snake.yml)
 
 ###
 
