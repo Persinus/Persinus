@@ -2,11 +2,13 @@
 
 
 
-<h2 align="center">👋 Hi there! I'm Persinus</h2>
-
+<h1 align="center"><strong>👋 Hi there! I'm Persinus</strong></h1>
 
 
 <br clear="both">
+
+
+
 
 <h2 align="left">👩‍💻  About Me</h2>
 
@@ -96,10 +98,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
-<h2 align="left">🌱 I’m currently learning</h2>
-<p align="left">Game Development with Unity<br>Web Development with Vue.js and ASP.NET</p>
-###
 
 
 
