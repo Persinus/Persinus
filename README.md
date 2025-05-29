@@ -2,8 +2,14 @@
 
 
 
-<h1 align="center"><strong>👋 Hi there! I'm Persinus</strong></h1>
+<br>
 
+<p align="center" >
+  <strong><em>👋 Welcome to my GitHub!</em></strong><br>
+  <strong>I'm Persinus</strong>
+</p>
+
+<br>
 
 <br clear="both">
 
