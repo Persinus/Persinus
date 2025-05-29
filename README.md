@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">👋 Hi there! I'm Persinus</h1>
+<h2 align="center">👋 Hi there! I'm Persinus</h2>
 
 
 
