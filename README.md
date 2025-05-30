@@ -26,7 +26,7 @@
 
 <h2 align="left">🛠 Language and tools</h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40"/><br/>.NET</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40"/><br/>Firebase</td>
