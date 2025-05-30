@@ -75,9 +75,68 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=redux" height="40"/><br/>Redux</td>
     <td align="center"><img src="https://cdn.simpleicons.org/discord/5865F2" height="40"/><br/>Discord</td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/><br/>SQL Server</td>
-  </tr>
+ <tr>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/><br/>SQL Server
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" height="40"/><br/>itch.io
+  </td>
+  <td align="center">
+    <img src="https://github.com/user-attachments/assets/12b5f5a8-f9c0-48fe-9db0-ee4db397b403" height="40"/><br/>Axios
+  </td>
+  <td align="center">
+    <img src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png" height="40"/><br/>Render
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/><br/>Vercel
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" height="40"/><br/>Fastify
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQnHWe2WJtPh62mLOLEk_Zfe0Gc7npVqncGq_0DLeCkvF-U5Ch4G4qJxjexDJeV25rmfQ&usqp=CAU" height="40"/><br/>Swagger
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" height="40"/><br/>Expo
+  </td>
+  <td align="center">
+    <img src="https://pinia.vuejs.org/logo.svg" height="40"/><br/>Pinia
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br/>React Native
+  </td>
+   <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" height="40"/><br/>Vite
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" height="40"/><br/>Nginx
+  </td>
+</tr>
+<tr>
+ <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40"/><br/>Postman
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40"/><br/>HTML5
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="40"/><br/>Tailwind
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/google-play-5-5.svg" height="40"/><br/>Play Store
+  </td>
+    <td align="center">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0RndXJdnl2lK-ZTNGA8dVWpsJwsicN1foQ&s" height="40"/><br/>Aseprite
+  </td>
+  <td align="center">
+    <img src="https://images.softwaresuggest.com/software_logo/1512818581_Spine%202D-logo.png" height="40"/><br/>Spine 2D
+  </td>
+</tr>
+
+  
 </table>
 
 
