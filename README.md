@@ -140,7 +140,7 @@
 </table>
 
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥My Stats :</h2>
 
 ###
 
