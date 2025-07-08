@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td width="60%" align="center">
+    <td width="60%" align="top">
       <img src="https://github.com/user-attachments/assets/f3771b0f-fc9b-4b1f-80b0-5e91ae0c0080" width="100%" />
       
   <p><strong>Akame</strong></p>
