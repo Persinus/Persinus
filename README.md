@@ -29,7 +29,7 @@
       </p>
     </td>
      <td width="50%" align="center">
-    <img src="https://github.com/user-attachments/assets/f3771b0f-fc9b-4b1f-80b0-5e91ae0c0080" width="100%" heght="120%" />
+    <img src="https://github.com/user-attachments/assets/f3771b0f-fc9b-4b1f-80b0-5e91ae0c0080" width="100%" />
       
   <p><strong>Akame</strong></p>
   </tr>
