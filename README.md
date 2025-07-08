@@ -15,17 +15,29 @@
 
 
 
-<h2 align="left">👩‍💻  About Me</h2>
+<table>
+  <tr>
+    <td width="60%" align="center">
+      <img src="https://github.com/user-attachments/assets/f3771b0f-fc9b-4b1f-80b0-5e91ae0c0080" alt="test" width="120%"/>
+    </td>
+    <td width="60%" valign="top">
+      <h2 align="left">👩‍💻 About Me</h2>
+      <p align="left">
+        🎮 Game Developer using Unity<br>
+        🌐 Web Developer using Vue & Asp.Net<br>
+        💡 Always learning new technologies and improving my skills
+      </p>
+    </td>
+  </tr>
+</table>
 
-###
-
-<p align="left">🎮 Game Developer using Unity<br>🌐 Web Developer using Vue & Asp.Net<br>💡 Always learning new technologies and improving my skills</p>
-
-###
 
 <h2 align="left">🛠 Language and tools</h2>
 
+
 <table align="center">
+
+
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40"/><br/>.NET</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40"/><br/>Firebase</td>
