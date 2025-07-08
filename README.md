@@ -17,13 +17,10 @@
 
 <table>
   <tr>
-    <td width="60%" align="top">
-      <img src="https://github.com/user-attachments/assets/f3771b0f-fc9b-4b1f-80b0-5e91ae0c0080" width="100%" />
-      
-  <p><strong>Akame</strong></p>
+   
       
   </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h2 align="left">👩‍💻 About Me</h2>
       <p align="left">
         🎮 Game Developer using Unity<br>
@@ -31,6 +28,10 @@
         💡 Always learning new technologies and improving my skills
       </p>
     </td>
+     <td width="50%" align="center">
+    <img src="https://github.com/user-attachments/assets/f3771b0f-fc9b-4b1f-80b0-5e91ae0c0080" width="100%" heght="120%" />
+      
+  <p><strong>Akame</strong></p>
   </tr>
 </table>
 
