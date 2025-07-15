@@ -201,19 +201,4 @@
 
 <p align="left">🚀 Thanks for visiting my profile! Feel free to explore and contribute!</p>
 
-###
-<h2 align="left">💖 Support My Work</h2>
 
-<p align="left">If you find my work helpful, consider supporting me:</p>
-<p align="left">⭐ Star my repositories to show your appreciation!</p>
-
-
-### Contributions
-
-<p align="left">If you like my work, consider supporting me by starring my repositories or following me on GitHub!</p>
-
-<p align="left">Your support helps me continue to create and share valuable content with the community.</p>
-
-<p align="left">Let's connect and collaborate on exciting projects!</p>
-
-<p align="left">Happy coding! 😊</p>
