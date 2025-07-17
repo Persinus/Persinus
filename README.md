@@ -49,7 +49,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Persinus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   
-  <img src="https://streak-stats.demolab.com?user=Persinus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=15&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Persinus&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Persinus&radius=16&theme=dracula&area=true&order=5&hide_title=false&hide_border=false" height="200" alt="activity-graph graph"  />
     <img src="https://api.githubtrends.io/user/svg/Persinus/repos?time_range=one_year&theme=ferns" height="200" />
@@ -85,7 +84,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lknamlng5xzorv6pjnr2sdfjfu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 ###
 
 <p align="left">🚀 Thanks for visiting my profile! Feel free to explore and contribute!</p>
