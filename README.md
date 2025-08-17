@@ -8,31 +8,18 @@
   <strong>I'm Persinus</strong>
 </p>
 
-<br>
-
-<br clear="both">
 
 
-
-
-<table>
-  <tr>
-   
-      
-  </td>
-    <td width="50%" valign="center">
-      <h2 align="left">👩‍💻 About Me</h2>
+<h2 align="left">👩‍💻 About Me</h2>
       <p align="left">
         🎮 Game Developer using Unity<br>
         🌐 Web Developer using Vue & Asp.Net<br>
         💡 Always learning new technologies and improving my skills
       </p>
     </td>
-     <td width="50%" align="center">
-    <img src="https://github.com/user-attachments/assets/f3771b0f-fc9b-4b1f-80b0-5e91ae0c0080" width="100%" />
+    
       
-  </tr>
-</table>
+
 
 
 
