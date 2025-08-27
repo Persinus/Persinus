@@ -1,4 +1,3 @@
-<img align="right" height="120" src="https://i.pinimg.com/736x/12/78/03/1278039c9a4b6f833ec87cc97287a11c.jpg"  />
 
 
 <br>
